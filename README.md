@@ -9,7 +9,7 @@ This project is a replica of Amazon's landing page, created using HTML and CSS. 
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
